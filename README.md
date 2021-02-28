@@ -1,2 +1,2 @@
 # woundcare
-generally wound management
+general wound management
